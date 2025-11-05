@@ -44,7 +44,7 @@
 }
 .price_wrap{
     margin-top: 30px;
-    margin-left: 600px;
+    margin-left: 600px; 
 }
 span{
     color: #fff;
@@ -60,7 +60,7 @@ span{
     /* CSS cho giá mới */
 
 }
-.button_wrap{
+.button_wrap{ 
     margin: 40px 0 0 300px;
 
 }
